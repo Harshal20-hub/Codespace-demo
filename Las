@@ -1,0 +1,8 @@
+from tkinter import *
+
+canvas = Tk()
+cavas.title("Hats of to github codespace ")
+las = Label(canvas, text="Hats to github codespace")
+las.pack(anchor="center")
+
+canvas.mainloop()
